@@ -1,1 +1,1 @@
-# w3-js
+# tutorial_w3school_javascript
